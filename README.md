@@ -1,6 +1,5 @@
 # Shopping Customer Call Conversation Sentence Intention Tagging
-Bseline, report, and data of the 'Project to determine the major factors of suicide and predict suicide rates by group - Focusing on the Thompson Sampling' conducted at the '4th Seoul National University Big Data Fintech Expert Training Course'.
-
+Bseline, report, and data of the 'Shopping Customer Call Conversation Sentence Intention Tagging Project' for the '2022 Year Dream Schhol'.
 
 ### Task Overview
 ![Image_Shopping_1](https://user-images.githubusercontent.com/89120612/215269651-1646aba3-f729-4bc1-9019-2f4d771d969a.png)
