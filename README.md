@@ -1,5 +1,5 @@
 # Shopping Customer Call Conversation Sentence Intention Tagging
-Baseline, code, and data of 2nd AI competition task implemented in the "2022 Year Dream School" project.
+Baseline and code of 2nd AI competition task implemented in the "2022 Year Dream School" project.
 
 ### Task Overview
 ![Image_Shopping_1](https://user-images.githubusercontent.com/89120612/215269651-1646aba3-f729-4bc1-9019-2f4d771d969a.png)
