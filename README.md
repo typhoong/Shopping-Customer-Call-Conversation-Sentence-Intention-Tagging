@@ -3,6 +3,7 @@ Baseline and report for the 2nd AI competition task 'Shopping Customer Call Conv
 
 ## 2022 Year Dream School
 AI education project for job seekers run by KOSME (Korea SMEs and Startups Agency)
+
 ![Yeardream_banner](https://user-images.githubusercontent.com/89120612/215303824-b8881838-9634-40ad-bf7d-0d1f87525978.png)
 
 ## Task Overview
