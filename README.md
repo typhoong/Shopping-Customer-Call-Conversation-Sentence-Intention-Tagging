@@ -1,4 +1,4 @@
-# Shopping Customer Call Conversation Sentence Intention Taging
+# Shopping Customer Call Conversation Sentence Intention Tagging
 Baseline and report for the 2nd AI competition task 'Shopping Customer Call Conversation Intention Tagingg' implemented in the '2022 Year Dream School' run by KOSME (Korea SMEs and Startups Agency).
 
 ## 2022 Year Dream School
